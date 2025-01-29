@@ -50,18 +50,5 @@
     },
     "zipFileUrl": "https://github.com/dev1amin/ana-flavia/raw/main/event-files/1738192373271-fotos.zip",
     "createdAt": "2025-01-29T23:12:56.514Z"
-  },
-  {
-    "id": "1738192599540",
-    "name": "Chalezinho dos manos 12",
-    "date": "2025-01-01",
-    "type": "public",
-    "mainPhotos": {
-      "photo1": "https://i.imgur.com/gpwE9Mj.jpeg",
-      "photo2": "https://i.imgur.com/GS4SSSw.jpeg",
-      "photo3": "https://i.imgur.com/PuVb3aD.jpeg"
-    },
-    "zipFileUrl": "https://github.com/dev1amin/ana-flavia/raw/main/event-files/1738192594470-fotos.zip",
-    "createdAt": "2025-01-29T23:16:39.540Z"
   }
 ]

@@ -63,18 +63,5 @@
     },
     "zipFileUrl": "https://github.com/dev1amin/ana-flavia/raw/main/event-files/1738194822280-fotos.zip",
     "createdAt": "2025-01-29T23:53:50.971Z"
-  },
-  {
-    "id": "1738194988451",
-    "name": "Aninha",
-    "date": "2025-01-16",
-    "type": "public",
-    "mainPhotos": {
-      "photo1": "https://i.imgur.com/QcndaCk.jpeg",
-      "photo2": "https://i.imgur.com/l3LrJ24.jpeg",
-      "photo3": "https://i.imgur.com/k1lxAle.jpeg"
-    },
-    "zipFileUrl": "https://github.com/dev1amin/ana-flavia/raw/main/event-files/1738194985636-fotos.zip",
-    "createdAt": "2025-01-29T23:56:28.451Z"
   }
 ]

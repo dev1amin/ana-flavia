@@ -26,19 +26,6 @@
     "createdAt": "2025-01-29T23:05:56.517Z"
   },
   {
-    "id": "1738192344745",
-    "name": "Chalezinho dos manos",
-    "date": "2025-01-01",
-    "type": "public",
-    "mainPhotos": {
-      "photo1": "https://i.imgur.com/YC1UTbp.jpeg",
-      "photo2": "https://i.imgur.com/U6oKeye.jpeg",
-      "photo3": "https://i.imgur.com/4Xqm5sf.jpeg"
-    },
-    "zipFileUrl": "https://github.com/dev1amin/ana-flavia/raw/main/event-files/1738192341009-fotos.zip",
-    "createdAt": "2025-01-29T23:12:24.745Z"
-  },
-  {
     "id": "1738192376514",
     "name": "Chalezinho dos manos 2",
     "date": "2025-01-01",

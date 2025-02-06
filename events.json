@@ -76,5 +76,18 @@
     },
     "zipFileUrl": "https://github.com/dev1amin/ana-flavia/raw/main/event-files/1738285123832-teste.zip",
     "createdAt": "2025-01-31T00:59:46.171Z"
+  },
+  {
+    "id": "1738865165224",
+    "name": "ChalezinhoasdADSDDADs",
+    "date": "2025-02-06",
+    "type": "public",
+    "mainPhotos": {
+      "photo1": "https://github.com/dev1amin/ana-flavia/raw/main/event-photos/1738865159429-Screenshot_20250205_133947.png",
+      "photo2": "https://github.com/dev1amin/ana-flavia/raw/main/event-photos/1738865160802-Screenshot_20250108_154629.png",
+      "photo3": "https://github.com/dev1amin/ana-flavia/raw/main/event-photos/1738865162455-Screenshot_20250205_173952.png"
+    },
+    "zipFileUrl": "https://github.com/dev1amin/ana-flavia/raw/main/event-files/1738865164014-fotos.zip",
+    "createdAt": "2025-02-06T18:06:05.224Z"
   }
 ]

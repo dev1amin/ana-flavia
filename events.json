@@ -50,18 +50,5 @@
     },
     "zipFileUrl": "https://github.com/dev1amin/ana-flavia/raw/main/event-files/1738285123832-teste.zip",
     "createdAt": "2025-01-31T00:59:46.171Z"
-  },
-  {
-    "id": "1738954021332",
-    "name": "Testando",
-    "date": "2025-02-12",
-    "type": "public",
-    "mainPhotos": {
-      "photo1": "https://i.imgur.com/HV9B6VF.jpeg",
-      "photo2": "https://i.imgur.com/TUwiG52.jpeg",
-      "photo3": "https://i.imgur.com/UwdLcDK.jpeg"
-    },
-    "zipFileUrl": "https://github.com/dev1amin/ana-flavia/raw/main/event-files/1738954020822-fotos.zip",
-    "createdAt": "2025-02-07T18:47:01.332Z"
   }
 ]

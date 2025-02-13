@@ -48,15 +48,5 @@
     "mainImage": "https://i.imgur.com/nMqwqXZ.jpeg",
     "driveFolderId": "1qgoCfNrH7KYzCG0VlRN-3tsMsRwqE0CW",
     "createdAt": "2025-02-13T15:17:49.355Z"
-  },
-  {
-    "id": "1739460012621",
-    "slug": "teste-privado-3",
-    "name": "Teste Privado 3",
-    "date": "2025-02-13",
-    "type": "private",
-    "mainImage": "https://i.imgur.com/rbvMr2E.jpeg",
-    "driveFolderId": "1Lw7jlLX7RAolK7oLpD067V2vE-NLTKYw",
-    "createdAt": "2025-02-13T15:20:12.621Z"
   }
 ]

@@ -88,5 +88,15 @@
     "mainImage": "https://i.imgur.com/JnOomxT.jpeg",
     "driveFolderId": "1dG6TI6kEmjLy2dM25NuC7GEDkJs8ZIJG",
     "createdAt": "2025-02-17T16:24:25.071Z"
+  },
+  {
+    "id": "1739809561578",
+    "slug": "baile-todo",
+    "name": "Baile Todo",
+    "date": "2024-11-21",
+    "type": "public",
+    "mainImage": "https://i.imgur.com/4xNUJdo.jpeg",
+    "driveFolderId": "1dG6TI6kEmjLy2dM25NuC7GEDkJs8ZIJG",
+    "createdAt": "2025-02-17T16:26:01.578Z"
   }
 ]

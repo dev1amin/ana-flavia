@@ -50,17 +50,6 @@
     "createdAt": "2025-02-17T17:49:29.823Z"
   },
   {
-    "id": "1739896616607",
-    "slug": "teste2",
-    "name": "Teste2",
-    "date": "2025-02-14",
-    "type": "private",
-    "mainImage": "https://i.imgur.com/xK9pzZ0.jpeg",
-    "driveFolderId": "1hqHKAzaC2tGldXmjEgKrFilVIhXDQAtT",
-    "createdAt": "2025-02-18T16:36:56.607Z",
-    "password": "teste2"
-  },
-  {
     "id": "1739896797116",
     "slug": "teste3",
     "name": "teste3",

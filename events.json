@@ -69,5 +69,15 @@
     "mainImage": "https://i.imgur.com/UhbPu0e.jpeg",
     "driveFolderId": "1hqHKAzaC2tGldXmjEgKrFilVIhXDQAtT",
     "createdAt": "2025-02-18T15:12:04.122Z"
+  },
+  {
+    "id": "1739891583483",
+    "slug": "rio-california-1",
+    "name": "Rio california",
+    "date": "2025-03-01",
+    "type": "public",
+    "mainImage": "https://i.imgur.com/bPe4ZAs.jpeg",
+    "driveFolderId": "1hqHKAzaC2tGldXmjEgKrFilVIhXDQAtT",
+    "createdAt": "2025-02-18T15:13:03.483Z"
   }
 ]

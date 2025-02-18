@@ -48,16 +48,5 @@
     "mainImage": "https://i.imgur.com/WJf7iUs.jpeg",
     "driveFolderId": "1rY3KL2ndxVJvVEQb4bA7n6g0xUQWUJWq",
     "createdAt": "2025-02-17T17:49:29.823Z"
-  },
-  {
-    "id": "1739896797116",
-    "slug": "teste3",
-    "name": "teste3",
-    "date": "2025-02-20",
-    "type": "private",
-    "mainImage": "https://i.imgur.com/BVsjYYY.jpeg",
-    "driveFolderId": "1qgoCfNrH7KYzCG0VlRN-3tsMsRwqE0CW",
-    "createdAt": "2025-02-18T16:39:57.116Z",
-    "password": "teste3"
   }
 ]

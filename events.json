@@ -231,15 +231,5 @@
     "driveFolderId": "1x2UFWW68IQvQVXapYGA2s1-QVTkn8b0l",
     "createdAt": "2025-04-22T19:14:30.190Z",
     "password": "GI2025"
-  },
-  {
-    "id": "1746673540825",
-    "slug": "teste",
-    "name": "teste",
-    "date": "2025-05-08",
-    "type": "public",
-    "mainImage": "https://i.imgur.com/NgGmsjI.jpeg",
-    "driveFolderId": "1Lw7jlLX7RAolK7oLpD067V2vE-NLTKYw",
-    "createdAt": "2025-05-08T03:05:40.825Z"
   }
 ]

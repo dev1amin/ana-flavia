@@ -343,5 +343,15 @@
     "driveFolderId": "14EmcwzGVYtnTAWqO-kZcCug4OOJy1oZz",
     "createdAt": "2025-03-21T23:16:16.631Z",
     "password": "LN2025"
+  },
+  {
+    "id": "1750117779814",
+    "slug": "encerramento-desafio-ray-21-dias",
+    "name": "Encerramento desafio Ray 21 dias",
+    "date": "2025-06-15",
+    "type": "public",
+    "mainImage": "https://i.imgur.com/bsL5Nza.jpeg",
+    "driveFolderId": "1T140xUpRLwPlkzItJbLH624KiudjNysJ",
+    "createdAt": "2025-06-16T23:49:39.814Z"
   }
 ]

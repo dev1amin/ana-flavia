@@ -353,5 +353,15 @@
     "driveFolderId": "14EmcwzGVYtnTAWqO-kZcCug4OOJy1oZz",
     "createdAt": "2025-03-21T23:16:16.631Z",
     "password": "LN2025"
+  },
+  {
+    "id": "1750180814686",
+    "slug": "encerramento-desafio-ray-21",
+    "name": "Encerramento Desafio Ray 21",
+    "date": "2025-06-15",
+    "type": "public",
+    "mainImage": "https://i.imgur.com/MMKZDXn.jpeg",
+    "driveFolderId": "1T140xUpRLwPlkzItJbLH624KiudjNysJ",
+    "createdAt": "2025-06-17T17:20:14.686Z"
   }
 ]

@@ -393,5 +393,15 @@
     "driveFolderId": "14EmcwzGVYtnTAWqO-kZcCug4OOJy1oZz",
     "createdAt": "2025-03-21T23:16:16.631Z",
     "password": "LN2025"
+  },
+  {
+    "id": "1751995508211",
+    "slug": "gui-dias-4-anos-de-carreira",
+    "name": "Gui Dias - 4 anos de carreira",
+    "date": "2025-07-03",
+    "type": "public",
+    "mainImage": "https://i.imgur.com/Z6EYlu2.jpeg",
+    "driveFolderId": "1lb9SE6mOZHRfFvP67ue-tE9u1MnE7q2F",
+    "createdAt": "2025-07-08T17:25:08.211Z"
   }
 ]

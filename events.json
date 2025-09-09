@@ -513,5 +513,15 @@
     "driveFolderId": "14EmcwzGVYtnTAWqO-kZcCug4OOJy1oZz",
     "createdAt": "2025-03-21T23:16:16.631Z",
     "password": "LN2025"
+  },
+  {
+    "id": "1757456192725",
+    "slug": "apero-du-brasil",
+    "name": "Apéro du Brasil",
+    "date": "2025-09-03",
+    "type": "public",
+    "mainImage": "https://i.imgur.com/xn8dcMU.jpeg",
+    "driveFolderId": "1oKN25yT-7tdvNaHdm2lQ9TCf_j1EHsxm",
+    "createdAt": "2025-09-09T22:16:32.725Z"
   }
 ]

@@ -523,5 +523,15 @@
     "driveFolderId": "14EmcwzGVYtnTAWqO-kZcCug4OOJy1oZz",
     "createdAt": "2025-03-21T23:16:16.631Z",
     "password": "LN2025"
+  },
+  {
+    "id": "1757464412716",
+    "slug": "rio-california-15",
+    "name": "Rio Califórnia",
+    "date": "2025-09-07",
+    "type": "public",
+    "mainImage": "https://i.imgur.com/stt4PXW.jpeg",
+    "driveFolderId": "1cerSU6BnzLmENyyHGTrEBI4455rGrMbO",
+    "createdAt": "2025-09-10T00:33:32.716Z"
   }
 ]

@@ -565,15 +565,5 @@
     "driveFolderId": "14EmcwzGVYtnTAWqO-kZcCug4OOJy1oZz",
     "createdAt": "2025-03-21T23:16:16.631Z",
     "password": "LN2025"
-  },
-  {
-    "id": "1758668025247",
-    "slug": "merc-beauclub",
-    "name": "Merc BeauClub",
-    "date": "2025-09-19",
-    "type": "public",
-    "mainImage": "https://i.imgur.com/m8GBySE.jpeg",
-    "driveFolderId": "106PeYI9Dk2jYx9JGPQkQPP_Fw6nz99Wn",
-    "createdAt": "2025-09-23T22:53:45.247Z"
   }
 ]

@@ -605,5 +605,15 @@
     "driveFolderId": "14EmcwzGVYtnTAWqO-kZcCug4OOJy1oZz",
     "createdAt": "2025-03-21T23:16:16.631Z",
     "password": "LN2025"
+  },
+  {
+    "id": "1759252929972",
+    "slug": "encontro-nacional-de-jipe-2025",
+    "name": "Encontro Nacional de Jipe 2025",
+    "date": "2025-09-27",
+    "type": "public",
+    "mainImage": "https://i.imgur.com/1q0FEcc.jpeg",
+    "driveFolderId": "1e0arXlRzNoF3rmR42g7_3ET2x1qawhBq",
+    "createdAt": "2025-09-30T17:22:09.972Z"
   }
 ]

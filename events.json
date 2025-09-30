@@ -625,5 +625,15 @@
     "driveFolderId": "14EmcwzGVYtnTAWqO-kZcCug4OOJy1oZz",
     "createdAt": "2025-03-21T23:16:16.631Z",
     "password": "LN2025"
+  },
+  {
+    "id": "1759264268681",
+    "slug": "rraro-fitness",
+    "name": "Rraro Fitness",
+    "date": "2025-09-27",
+    "type": "public",
+    "mainImage": "https://i.imgur.com/E7yiJw0.jpeg",
+    "driveFolderId": "1AzsOOATFb7vtWDT_CcXlBQfiYJexFQdp",
+    "createdAt": "2025-09-30T20:31:08.681Z"
   }
 ]

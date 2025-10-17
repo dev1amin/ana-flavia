@@ -667,5 +667,15 @@
     "driveFolderId": "1GicruzCGw09y8GAdufoy8bxfxq8A-CKo",
     "createdAt": "2025-10-08T16:24:27.497Z",
     "password": "LEOHEN2025"
+  },
+  {
+    "id": "1760712703737",
+    "slug": "malibu-3",
+    "name": "Malibu",
+    "date": "2025-10-10",
+    "type": "public",
+    "mainImage": "https://i.imgur.com/ki2C3gV.jpeg",
+    "driveFolderId": "18ngksoPFRpkjlNbwJPjvn0XE-crPdDD2",
+    "createdAt": "2025-10-17T14:51:43.737Z"
   }
 ]
